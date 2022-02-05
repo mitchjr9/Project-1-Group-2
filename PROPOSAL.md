@@ -4,9 +4,9 @@ Social Media as an Indicator for Crypto Prices
 
 # Team Members
 
-Eric Wynn
-Jason Shapiro
-Mitch Rose
+Eric Wynn 
+Jason Shapiro 
+Mitch Rose 
 
 # Project Description / Outline
 
