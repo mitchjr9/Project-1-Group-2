@@ -1,12 +1,12 @@
 # Project Title
 
-Social Media as an Indicator for Crypto Prices
+Twitter as an Indicator for Crypto Prices
 
 # Team Members
 
-Eric Wynn 
-Jason Shapiro 
-Mitch Rose 
+Eric Wynn  
+Jason Shapiro  
+Mitch Rose   
 
 # Project Description / Outline
 
@@ -14,18 +14,16 @@ Investigate the effect of social media on 3 specific cryptocurrencies.
 
 # Research Questions to Answer
 
-1. Is there a correlation between social media and coin/token price?
-1. Is Twitter predictive or reactive?
+1. Is there a correlation between twitter activity and coin/token price?
+1. If there is a correlation, is it typically predictive or reactive?
 1. Is the correlation between tweets stronger with stocks or crypto?
-1. Are the same trends visible across social media platforms?
-1. What is the latency between social media chatter and price movement?
+1. What is the latency between tweets and price movement?
 
 # Datasets to be Used
 
 1. Twitter
-1. Facebook
-1. Reddit
-1. CoinGecko (or some other FMV crypto API)
+1. CoinGecko (AVAX, BTC, SHIB)
+1. Alpaca (TLSA, NVDA, RYDAF)
 
 # Task Breakdown (Due Dates; End of Class)
 
