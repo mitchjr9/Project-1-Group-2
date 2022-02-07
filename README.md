@@ -1,6 +1,15 @@
-# Project-1-Group-2
+# Twitter as an Indicator for Crypto Prices
 
-Project 1
+## Team Members
 
-This is a demo...
-... another change
+Eric Wynn  
+Jason Shapiro  
+Mitch Rose
+
+## Project Description / Outline
+
+Investigate the effect of social media on 3 specific cryptocurrencies.
+
+## Table of Contents
+
+1. [Project Proposal](PROPOSAL.md)
