@@ -1,6 +1,6 @@
 # Project Title
 
-Twitter as an Indicator for Crypto Prices
+Google Trends as an Indicator for Asset Prices
 
 # Team Members
 
@@ -10,20 +10,19 @@ Mitch Rose
 
 # Project Description / Outline
 
-Investigate the effect of social media on 3 specific cryptocurrencies.
+Investigate the effect of Google searches on asset prices
 
 # Research Questions to Answer
 
-1. Is there a correlation between twitter activity and coin/token price?
+1. Is there a correlation between Google search activity and asset prices? If so, is it positive or negative?
 1. If there is a correlation, is it typically predictive or reactive?
-1. Is the correlation between tweets stronger with stocks or crypto?
-1. What is the latency between tweets and price movement?
+1. Is the correlation between searches stronger with stocks or crypto?
+1. Is there a latency between Google search activity and price movement?
 
 # Datasets to be Used
 
-1. Twitter
-1. CoinGecko (AVAX, BTC, SHIB)
-1. Alpaca (TLSA, NVDA, RYDAF)
+1. Google Trends
+1. Alpaca (AAPL, TSLA, BTC, ETH)
 
 # Task Breakdown (Due Dates; End of Class)
 
