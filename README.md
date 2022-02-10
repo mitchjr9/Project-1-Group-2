@@ -1,4 +1,4 @@
-# Twitter as an Indicator for Crypto Prices
+# Google Trends as an Indicator for Asset Prices
 
 ## Team Members
 
@@ -8,7 +8,7 @@ Mitch Rose
 
 ## Project Description / Outline
 
-Investigate the effect of social media on 3 specific cryptocurrencies.
+Investigate the effect of Google Trends on asset prices.
 
 ## Table of Contents
 
