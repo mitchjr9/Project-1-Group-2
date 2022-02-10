@@ -36,6 +36,11 @@ Investigate the effect of Google searches on asset prices
 
 1. Finish implementing API dependent algorithms
 1. Determine common data format
+  1. Data will be loaded into dataframes & each asset will have its own dataframe containing:
+    1. Date
+    2. Price
+    3. Relative Google Trend Score
+  1. We will also concat all assets to display all data together
 
 ## Feb 9, 2022
 
