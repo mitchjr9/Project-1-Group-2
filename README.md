@@ -10,9 +10,12 @@ Mitch Rose
 
 Investigate the effect of Google Trends on asset prices.
 
-## Table of Contents
+## Project Files
 
 1. [Project Proposal](PROPOSAL.md)
+2. [Findings Summary](FindingsSummary.md)
+3. [PyTrends](App/Pytrends.ipynb)
+4. [Analysis](App/Data_Analysis.ipynb)
 
 ## Graphs
 1. Price over time of each asset (separate)
